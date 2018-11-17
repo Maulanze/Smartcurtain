@@ -1,0 +1,6 @@
+allers\controller\HomeController.class
+allers\config\SwaggerConfig.class
+allers\Starter$ApplicationStartup.class
+allers\Starter.class
+allers\controller\MainController.class
+allers\service\RaspberryService.class
